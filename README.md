@@ -9,7 +9,7 @@
 </p>
 
 _______________________________
-### <h1 align="center"><a href="https://github.com/Iamtripathisatyam/Words_Dictionary/blob/main/Word_Meaning_Dictionary">**`WORD MEANING DEICTIONARY`**</a> Using `PYTHON`<h1/>
+### <h1 align="center"><a href="https://github.com/Iamtripathisatyam/Words_Dictionary/blob/main/Word_Meaning_Dictionary">**`WORD MEANING DICTIONARY`**</a>Using `PYTHON`<h1/>
 _______________________________
 
 <h3 align="center">
