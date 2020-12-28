@@ -25,6 +25,7 @@ _______________________________
 # PreRequisite:
 ```python
         ~ pip install plyer
+        ~ .json file which I have provided in this Repository
 ```             
 
 # Module Needed:
