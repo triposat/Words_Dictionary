@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://icons.iconarchive.com/icons/hopstarter/book/128/Dictionary-Book-icon.png" />
+<img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/128/Books-icon.png" />
 </p>
 
 <p align="center">
