@@ -47,13 +47,13 @@ _______________________________
 ```
 # Use of **`time`** Module:
 ```python
-       1. This Module provides many ways of representing time in code, such as objects, numbers, and strings. 
-       2. It also provides functionality other than representing time, like waiting during code execution and measuring the efficiency of your code.
-```
-# Use of **`time`** Module:
-```python
        1. This module provides classes and functions for comparing sequences. 
        2.  It can be used for example, for comparing files, and can produce information about file differences in various formats.
+```
+# Use of **`get_close_matches`** Module:
+```python
+       1. This Module provides many ways of representing time in code, such as objects, numbers, and strings. 
+       2. It also provides functionality other than representing time, like waiting during code execution and measuring the efficiency of your code.
 ```
 _________________________________
 
