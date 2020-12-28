@@ -49,7 +49,7 @@ _______________________________
 # Use of **`get_close_matches`** Module:
 ```python
        1. This module provides classes and functions for comparing sequences. 
-       2.  It can be used for example, for comparing files, and can produce information about file differences in various formats.
+       2. It can be used for example, for comparing files, and can produce information about file differences in various formats.
 ```
 # Use of **`time`** Module:
 ```python
