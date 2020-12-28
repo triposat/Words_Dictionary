@@ -29,10 +29,10 @@ _______________________________
 
 # Module Needed:
 ```python 
-          import requests
-          import math
-          import datetime
+          from difflib import get_close_matches
+          import json
           from plyer import notification
+          import time
 ```
 
 # Use of **`plyer`** Module:
@@ -40,21 +40,20 @@ _______________________________
        1. Used as a Desktop Notifier. 
        2. It produces a Notification Message in form of a POP-UP Message on Desktop.
 ```
-# Use of **`datetime`** Module:
+# Use of **`json`** Module:
 ```python
-       1. This Module supplies classes to work with date and time.
-       2. These classes provide a number of functions to deal with dates, times and time intervals.
+       1. Used to work with JSON Data. 
+       2. If you have a JSON string, you can parse it by using the json.loads() method.
 ```
-
-# Use of **`math`** Module:
+# Use of **`time`** Module:
 ```python
-       1. To use mathematical functions under this module, you have to import the module
-       2. This module does not support complex datatypes.
+       1. This Module provides many ways of representing time in code, such as objects, numbers, and strings. 
+       2. It also provides functionality other than representing time, like waiting during code execution and measuring the efficiency of your code.
 ```
-# Use of **`requests`** Module:
+# Use of **`time`** Module:
 ```python
-       1. Use to send all kinds of HTTP requests. 
-       2. The HTTP request returns a Response Object with all the response data (content, encoding, status, etc).
+       1. This module provides classes and functions for comparing sequences. 
+       2.  It can be used for example, for comparing files, and can produce information about file differences in various formats.
 ```
 _________________________________
 
