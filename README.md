@@ -9,7 +9,7 @@
 </p>
 
 _______________________________
-### <h1 align="center"><a href="https://github.com/Iamtripathisatyam/Weather_Updates_Notifier/blob/main/Weather_Updates.py">**`WEATHER UPDATES NOTIFIER`**</a> Using `PYTHON`<h1/>
+### <h1 align="center"><a href="https://github.com/Iamtripathisatyam/Words_Dictionary/blob/main/Word_Meaning_Dictionary">**`WORD MEANING DEICTIONARYWords_Dictionary1/>
 _______________________________
 
 <h3 align="center">
@@ -63,7 +63,7 @@ _________________________________
 
 <br/>
 <p align="center">
-<img src="https://badges.pufler.dev/visits/Iamtripathisatyam/Weather_Updates_Notifier?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
-<img src="https://badges.pufler.dev/updated/Iamtripathisatyam/Weather_Updates_Notifier?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
-<img src="https://badges.pufler.dev/created/Iamtripathisatyam/Weather_Updates_Notifier?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
+<img src="https://badges.pufler.dev/visits/Iamtripathisatyam/Words_Dictionary?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
+<img src="https://badges.pufler.dev/updated/Iamtripathisatyam/Words_Dictionary?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
+<img src="https://badges.pufler.dev/created/Iamtripathisatyam/Words_Dictionary?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
 </p>
