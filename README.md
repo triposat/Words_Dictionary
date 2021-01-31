@@ -19,9 +19,9 @@ _______________________________
 
 <h3 align="center">
   
-- This is one of my best project which I made in `15 Days`.
+- This is one of my best project which I made in `15 Days.`
 - This Project is really amazing.
-- They will help you a lot in learning something new in `PYTHON`.
+- They will help you a lot in learning something new in `PYTHON.`
 
 </h3>
 
