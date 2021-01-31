@@ -8,6 +8,11 @@
 <img src="https://forthebadge.com/images/badges/built-by-developers.svg" />
 </p>
 
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{Words_Dictionary}/count.svg" alt=Iamtripathisatyam />
+</p>
+
 _______________________________
 ### <h1 align="center"><a href="https://github.com/Iamtripathisatyam/Words_Dictionary/blob/main/Word_Meaning_Dictionary">**`WORD MEANING DICTIONARY`**</a> Using `PYTHON`<h1/>
 _______________________________
@@ -60,7 +65,6 @@ _________________________________
 
 <br/>
 <p align="center">
-<img src="https://badges.pufler.dev/visits/Iamtripathisatyam/Words_Dictionary?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
 <img src="https://badges.pufler.dev/updated/Iamtripathisatyam/Words_Dictionary?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
 <img src="https://badges.pufler.dev/created/Iamtripathisatyam/Words_Dictionary?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
 </p>
