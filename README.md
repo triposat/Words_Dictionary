@@ -17,16 +17,6 @@ _______________________________
 ### <h1 align="center"><a href="https://github.com/Iamtripathisatyam/Words_Dictionary/blob/main/Word_Meaning_Dictionary">**`WORD MEANING DICTIONARY`**</a> Using `PYTHON`<h1/>
 _______________________________
 
-<h3 align="center">
-  
-- This is one of my best project which I made in `15 Days.`
-- This Project is really amazing.
-- They will help you a lot in learning something new in `PYTHON.`
-
-</h3>
-
-_______________________________
-
 # PreRequisite:
 ```python
         ~ pip install plyer
