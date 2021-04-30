@@ -4,7 +4,7 @@
 ![](https://img.shields.io/tokei/lines/github/Iamtripathisatyam/Words_Dictionary?color=red&label=Lines%20of%20Code)</br>
 
 <p align="center">
-<img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/128/Books-icon.png" />
+<a href="https://github.com/Iamtripathisatyam/Words_Dictionary/blob/main/Word_Meaning_Dictionary.py"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/128/Books-icon.png" /></a>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 </p>
 
 
-### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Words_Dictionary/blob/main/Word_Meaning_Dictionary.py"><img src="https://img.shields.io/badge/-ENGLISH WORD MEANING DICTIONARY USING PYTHON-black?logo=python&logoColor=yellow&style=flat-square"></a><h3/>
+### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Words_Dictionary/blob/main/Word_Meaning_Dictionary.py"><img src="https://img.shields.io/badge/-ENGLISH WORD MEANING DICTIONARY-black?logo=python&logoColor=yellow&style=flat-square"></a><h3/>
 
 ### Prerequisite:
 ```python
