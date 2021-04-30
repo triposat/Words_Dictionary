@@ -18,10 +18,8 @@
   <img src="https://profile-counter.glitch.me/{Words_Dictionary}/count.svg" alt=Iamtripathisatyam />
 </p>
 
-_______________________________
 
 ### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Words_Dictionary/blob/main/Word_Meaning_Dictionary.py"><img src="https://img.shields.io/badge/-ENGLISH WORD MEANING DICTIONARY USING PYTHON-black?logo=python&logoColor=yellow&style=flat-square"></a><h3/>
-_______________________________
 
 ### Prerequisite:
 ```python
