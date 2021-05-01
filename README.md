@@ -4,7 +4,7 @@
 ![](https://img.shields.io/tokei/lines/github/Iamtripathisatyam/Words_Dictionary?color=red&label=Lines%20of%20Code)</br>
 
 <p align="center">
-<a href="https://github.com/Iamtripathisatyam/Words_Dictionary/blob/main/Word_Meaning_Dictionary.py"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/128/Books-icon.png" /></a>
+<a href="https://github.com/Iamtripathisatyam/Words_Dictionary/blob/main/Word_Meaning_Dictionary.py"><img src="https://cutt.ly/xblvr1Q" /></a>
 </p>
 
 <p align="center">
