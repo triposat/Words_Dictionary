@@ -1,7 +1,7 @@
-![Size](https://img.shields.io/github/repo-size/Iamtripathisatyam/Words_Dictionary?color=red&label=Repo%20Size%20)</br>
-![License](https://img.shields.io/badge/License-MIT-red.svg)</br>
 [![Prettier](https://img.shields.io/badge/Code%20Style-Prettier-red.svg)](https://github.com/prettier/prettier)</br>
+![Size](https://img.shields.io/github/repo-size/Iamtripathisatyam/Words_Dictionary?color=red&label=Repo%20Size%20)</br>
 ![](https://img.shields.io/tokei/lines/github/Iamtripathisatyam/Words_Dictionary?color=red&label=Lines%20of%20Code)</br>
+![License](https://img.shields.io/badge/License-MIT-red.svg)</br>
 
 <p align="center">
 <a href="https://github.com/Iamtripathisatyam/Words_Dictionary/blob/main/Word_Meaning_Dictionary.py"><img src="https://cutt.ly/xblvr1Q" /></a>
