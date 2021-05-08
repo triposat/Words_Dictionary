@@ -38,19 +38,19 @@ def teller(word):
 
 
 if __name__ == '__main__':
-    notification.notify(title="Offline E-book Dictionary Made by : Satyam Tripathi",
+    notification.notify(title="Offline E-book Dictionary Made by: Satyam Tripathi",
                         message="Using Python & Python Plyer",
                         app_icon="C:/Users"
                         "/Dell/Downloads/smile.ico", timeout=7)
     speak("Offline E-book Dictionary!! Made by!! Satyam Tripathi")
     time.sleep(1)
     while 1:
-        word = input("Please Enter the Word : ")
+        word = input("Please Enter the Word: ")
         tran = teller(word)
         a = type(tran)
         if a == list:
             for i in tran:
-                notification.notify(title=f"Meaning of {get_close_matches(word, book.keys())[0].capitalize()} : ",
+                notification.notify(title=f"Meaning of {get_close_matches(word, book.keys())[0].capitalize()}: ",
                                     message=f"{i}",
                                     app_icon="C:/Users"
                                              "/Dell/Downloads/sear.ico", timeout=8)
@@ -62,11 +62,11 @@ if __name__ == '__main__':
         else:
             speak(f"Meaning of {word.capitalize()}")
             speak(f"{tran}")
-            notification.notify(title=f"Meaning of {word.capitalize()} : ",
+            notification.notify(title=f"Meaning of {word.capitalize()}: ",
                                 message=f"{tran}",
                                 app_icon="C:/Users"
                                          "/Dell/Downloads/sear.ico", timeout=8)
-        a = input("Do you want Search another Words : Press[Y/N]").lower()
+        a = input("Do you want Search another Words: Press[Y/N]").lower()
         if a == 'y':
             continue
         else:
