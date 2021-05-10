@@ -47,8 +47,6 @@
 ### Use of `time` module:
    - This Module provides many ways of representing time in code, such as objects, numbers, and strings. 
    - It also provides functionality other than representing time, like waiting during code execution and measuring the efficiency of your code.
-_________________________________
+___________________________________
 
-### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Words_Dictionary">Made with <img src="https://cutt.ly/lbllkDi" width="20px"> in India</a><h3/>
-
-<p align="center">Copyright &copy; 2021 Satyam Tripathi</p>
+<p>&copy; 2021 Satyam Tripathi</p>
