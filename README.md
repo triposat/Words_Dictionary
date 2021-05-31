@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/License-MIT-red.svg)</br>
 ![](https://profile-counter.glitch.me/{Words_Dictionary}/count.svg)
 <p align="center">
-<a href="https://github.com/Iamtripathisatyam/Words_Dictionary/blob/main/English_Dictionary_Application.ipynb"><img src="https://cutt.ly/xblvr1Q" /></a>
+<a href="https://github.com/Iamtripathisatyam/Words_Dictionary/blob/main/English_Dictionary_Application.ipynb"><img width="120" src="https://cdn.icon-icons.com/icons2/272/PNG/512/Dictionary_30019.png" /></a>
 </p>
 
 ### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Words_Dictionary/blob/main/English_Dictionary_Application.ipynb"><img src="https://img.shields.io/badge/-ENGLISH WORDS DICTIONARY-black?logo=python&logoColor=yellow&style=flat-square"></a><h3/>
