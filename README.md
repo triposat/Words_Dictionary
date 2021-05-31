@@ -10,7 +10,7 @@
 <a href="https://github.com/Iamtripathisatyam/Words_Dictionary/blob/main/English_Dictionary_Application.ipynb"><img src="https://cutt.ly/xblvr1Q" /></a>
 </p>
 
-### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Words_Dictionary/blob/main/English_Dictionary_Application.ipynb"><img src="https://img.shields.io/badge/-ENGLISH WORD MEANING DICTIONARY-black?logo=python&logoColor=yellow&style=flat-square"></a><h3/>
+### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Words_Dictionary/blob/main/English_Dictionary_Application.ipynb"><img src="https://img.shields.io/badge/-ENGLISH WORDS DICTIONARY-black?logo=python&logoColor=yellow&style=flat-square"></a><h3/>
 
 ___________________________________
 
