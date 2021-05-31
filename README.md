@@ -9,8 +9,6 @@
 <p align="center">
 <a href="https://github.com/Iamtripathisatyam/Words_Dictionary/blob/main/English_Dictionary_Application.ipynb"><img width="120" src="https://cdn.icon-icons.com/icons2/272/PNG/512/Dictionary_30019.png" /></a>
 </p>
-
-### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Words_Dictionary/blob/main/English_Dictionary_Application.ipynb"><img src="https://img.shields.io/badge/-ENGLISH WORDS DICTIONARY-black?logo=python&logoColor=yellow&style=flat-square"></a><h3/>
   
 - Let's [*see*](https://github.com/Iamtripathisatyam/Words_Dictionary/blob/main/English_Dictionary_Application.ipynb) a simple Web Application made by using **Python** and **PyWebIO**.
 - It takes a word from the user and returns its definition from the **ebook.json** file.
